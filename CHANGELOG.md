@@ -1,10 +1,11 @@
-<a name="1.0.0"></a>
-# 1.0.0 (2018-04-28)
+<a name=""></a>
+#  (2018-04-28)
 
 
 ### Bug Fixes
 
 * **StockIn:** 修复入库文件上传的bug ([2d923fe](https://github.com/rush0119/test-changelog/commit/2d923fe))
+* **stockout2:** 修复文件拖拽的bug ([ad048da](https://github.com/rush0119/test-changelog/commit/ad048da))
 * **VoidPassword:** 修复免密BUG ([85bf9f3](https://github.com/rush0119/test-changelog/commit/85bf9f3))
 
 
