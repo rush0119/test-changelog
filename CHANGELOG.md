@@ -10,6 +10,7 @@
 
 ### Features
 
+* **CHANGELOG:** 新增CHANGELOG文件 ([aa58616](https://github.com/rush0119/test-changelog/commit/aa58616))
 * **StockOut:** 增加出库子模块 ([39ee48b](https://github.com/rush0119/test-changelog/commit/39ee48b))
 
 
